@@ -1,1 +1,2 @@
-# admin-Dashboard
+# Admin-Dashboard
+This is an assignment from Intermediate HTML and CSS by The Odin Project. In this assignment, I'm tasked to create an Admin Dashboard primarily using Grid to polish my skills on this Layout tool.
